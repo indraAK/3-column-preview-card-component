@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
+-  Solution URL: [Solution](https://www.frontendmentor.io/solutions/3column-preview-card-component-using-flexbox-and-css-grid-oEocbJJ-_)
 -  Live Site URL: [Demo](https://clever-keller-424599.netlify.app/)
 
 ## Built with
